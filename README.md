@@ -7,7 +7,7 @@ This project is a Sales Dashboard built using Power BI to analyze and visualize 
 
 Features
 
-Key Metrics Display:
+Key Metrics Display:---------
 
 Total Sales: $2.3M
 
@@ -19,7 +19,7 @@ Average Sales Value: $229.9
 
 Profit Margin: 12.5%
 
-Visualizations:
+Visualizations:---------------
 
 Sales Trends by State: Interactive map showing sales distribution across the United States.
 
@@ -29,13 +29,13 @@ Top-Performing Postal Codes: Displays postal codes with the highest sales.
 
 Best-Selling Sub-Categories: Treemap highlighting the top-selling product sub-categories.
 
-Filters:
+Filters:--------------
 
 Category Selection: Furniture, Office Supplies, Technology.
 
 Region Selection: Central, East, South, West.
 
-Insights & Problem Solved
+Insights & Problem Solved :---------------
 
 This dashboard helps businesses gain a deeper understanding of their sales performance by providing:
 
@@ -49,7 +49,7 @@ High-Performing Postal Codes: Helping businesses pinpoint specific locations wit
 
 By leveraging these insights, businesses can make data-driven decisions to improve sales strategies, optimize inventory, and enhance customer targeting.
 
-Technologies Used
+Technologies Used:--------------
 
 Power BI for data visualization.
 
